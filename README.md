@@ -2,7 +2,7 @@
 AutoReconPy is your planned intelligent Nmap automation &amp; reconnaissance wrapper tool
 
 # Clone the repository
-git clone https://github.com/your-username/AutoReconPy.git
+git clone https://github.com/kazhuguthamizhan/AutoReconPy
 
 # Navigate into the project directory
 cd AutoReconPy
