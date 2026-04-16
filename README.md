@@ -18,3 +18,6 @@ pip install -r requirements.txt
 
 # Install Nmap (if not already installed)
 sudo apt install nmap
+
+# Make scan 
+python3 autorecon.py -t <target_ip_or_domain>
